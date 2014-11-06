@@ -100,3 +100,5 @@ begin
    full <= full_reg;
    empty <= empty_reg;
 end arch;
+
+Juliano esteve aqui
